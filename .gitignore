@@ -1,0 +1,11 @@
+# NetBeans Ant
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# IDE & Logs
+.idea/
+*.iml
+*.log
